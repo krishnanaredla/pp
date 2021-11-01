@@ -1,0 +1,10 @@
+s3:
+  aws_access_key_id : "dev"
+  aws_secret_access_key : "dev"
+
+db:
+  user : "postgres"
+  password : "postgres"
+  host : "10.235.125.184"
+  port : 5433
+  database : "postgres"
